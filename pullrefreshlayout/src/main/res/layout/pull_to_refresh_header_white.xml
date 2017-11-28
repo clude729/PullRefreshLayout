@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pull_to_refresh_header_content_layout"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="vertical">
+    <!-- 下拉刷新头部视图（白色图标） -->
+    <RelativeLayout
+        android:id="@+id/pull_to_refresh_header_content"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:paddingTop="11dp"
+        android:paddingBottom="8dp"
+        tools:ignore="PxUsage">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/load_imagview_anim"
+                android:layout_width="20dp"
+                android:layout_marginRight="@dimen/margin_6dp"
+                android:layout_height="20dp"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitCenter"
+                android:src="@drawable/loading_pulldown_w" />
+            <TextView
+                android:id="@+id/pull_to_refresh_header_hint_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="13dp"
+                android:includeFontPadding="false"
+                android:singleLine="true"
+                android:text="@string/m_pull_to_refresh"
+                android:textColor="@color/c10"
+                android:textSize="@dimen/h5" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/loading_last_time_textview"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/c10"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="@dimen/h5"
+            android:text="@string/no_refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+</LinearLayout>

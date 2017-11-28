@@ -1,0 +1,37 @@
+<resources>
+    <!-- 详情页的节目标题，页面名称 -->
+    <dimen name="h1">17sp</dimen>
+
+    <!-- 滚动海报上的文字，菜单栏上的文字 -->
+    <dimen name="h2">15sp</dimen>
+
+    <!-- login页面中depassword -->
+    <dimen name="h3">13sp</dimen>
+
+    <!-- 正文 -->
+    <dimen name="h4">12sp</dimen>
+
+    <!-- 辅助提示文字，下载进度，速度等 -->
+    <dimen name="h5">12sp</dimen>
+
+    <!-- 辅助文字 -->
+    <dimen name="h6">10sp</dimen>
+
+    <!-- 辅助文字 -->
+    <dimen name="h8">13sp</dimen>
+
+    <!-- VIP详情 -->
+    <dimen name="h9">14sp</dimen>
+
+    <!-- VIP标题 -->
+    <dimen name="h10">16sp</dimen>
+
+    <!-- 辅助文字 -->
+    <dimen name="h11">10sp</dimen>
+
+    <!-- 辅助文字 -->
+    <dimen name="h12">10sp</dimen>
+
+    <!-- 距离尺寸 -->
+    <dimen name="margin_6dp">6dp</dimen>
+</resources>

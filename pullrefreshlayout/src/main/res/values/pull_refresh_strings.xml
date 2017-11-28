@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 下拉刷新提示文本 -->
+    <string name="m_pull_to_refresh">Pull down to refresh…</string>
+
+    <!-- 上拉加载提示文本 -->
+    <string name="m_pull_to_load">Pull down to load more</string>
+
+    <!-- 松开刷新提示文本 -->
+    <string name="m_refreshing">Release to refresh…</string>
+
+    <!-- 松开加载提示文本 -->
+    <string name="m_loosen_load">Release to load more</string>
+
+    <!-- 加载中提示 -->
+    <string name="m_loading">Loading…</string>
+    <string name="d_loading">Please wait...</string>
+
+    <!-- 最近一次加载日期提示文本 -->
+    <string name="m_refresh_lasttime1">Last Updated:</string>
+
+    <!-- 日期格式 -->
+    <string name="m_refresh_lasttime2">%dd%/%MM%/%yyyy% %hh%:%mm%</string>
+
+    <!-- 最近没有刷新提示文本 -->
+    <string name="no_refresh">No Refresh</string>
+
+</resources>

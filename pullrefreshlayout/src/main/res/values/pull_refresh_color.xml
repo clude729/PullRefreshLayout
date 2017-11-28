@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--焦点色-->
+    <color name="c1">#1bb790</color>
+    <!--文本颜色-->
+    <color name="c2">#333333</color>
+    <!--背景色，海报上的文字色-->
+    <color name="c3">#FBFCFD</color>
+    <!--模块分割线-->
+    <color name="c4">#e2e3e3</color>
+    <!--警示文字色-->
+    <color name="c5">#ff4d4d</color>
+    <!--文本文字-->
+    <color name="c6">#666666</color>
+    <!--文本框输入文字-->
+    <color name="c7">#cdcdcd</color>
+    <!--顶部暗色从左向右-->
+    <color name="c8">#13b5b1</color>
+    <!--顶部颜色-->
+    <color name="c9">#5ceac6</color>
+    <!--输入框颜色-->
+    <color name="c10">#999999</color>
+    <!--筛选框默认颜色-->
+    <color name="c11">#ebecec</color>
+    <!--筛选框按压颜色-->
+    <color name="c12">#dcdcdc</color>
+    <!--输入电话号码色-->
+    <color name="c13">#797979</color>
+    <!--直播选中背景颜色-->
+    <color name="c14">#efefef</color>
+    <!--直播选中背景色-->
+    <color name="c15">#b3b3b3</color>
+    <!--数字颜色-->
+    <color name="c16">#ceb85e</color>
+    <!--直播全屏时选中颜色 #000000，不透明度90%-->
+    <color name="c17">#E6000000</color>
+    <!--直播全屏节目单背景色，蒙版色 #000000，不透明度80%-->
+    <color name="c18">#CC000000</color>
+    <!--头部搜索框的预置文字 不透明度50%-->
+    <color name="c19">#80fbfcfc</color>
+</resources>
